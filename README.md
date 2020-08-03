@@ -15,6 +15,7 @@ Participei da Semana Omnistack para obter conhecimento sobre essas tecnologias q
 
 
 ![](/_images/logon-page.PNG)
+<img src="/_images/logon-page.PNG" width="200">
 
 ![](/_images/register-page.PNG)
 
