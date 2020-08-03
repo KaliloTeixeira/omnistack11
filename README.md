@@ -12,3 +12,12 @@ quanto para Android.
 
 ##Objetivo Pessoal<br />
 Participei da Semana Omnistack para obter conhecimento sobre essas tecnologias que tenho estudado.
+
+
+![](/_images/logon-page.PNG)
+
+![](/_images/register-page.PNG)
+
+![](/_images/new-incident-page.PNG)
+
+![](/_images/main-page.PNG)
