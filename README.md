@@ -13,9 +13,18 @@ quanto para Android.
 ##Objetivo Pessoal<br />
 Participei da Semana Omnistack para obter conhecimento sobre essas tecnologias que tenho estudado.
 
+#Web App
+### Usado pelas Ongs para cadastrar os casos que necessitam de ajuda.
 <p align="center" >
   <img src="/_images/logon-page.PNG" width="500">
   <img src="/_images/register-page.PNG" width="500">
   <img src="/_images/new-incident-page.PNG" width="500">
   <img src="/_images/main-page.PNG" width="500">
+</p>
+
+#Mobile App
+### Usado pelos usuários que desejam doar para um determinado Caso.
+<p align="center" >
+  <img src="/_images/mobile-main-page.PNG" width="250">
+  <img src="/_images/mob-donation-page.PNG" width="250">
 </p>
