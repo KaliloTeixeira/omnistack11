@@ -21,3 +21,9 @@ Participei da Semana Omnistack para obter conhecimento sobre essas tecnologias q
 <img src="/_images/new-incident-page.PNG" width="500">
 
 <img src="/_images/main-page.PNG" width="500">
+
+<style>
+  img {
+    margin-left = 50px;
+  }
+</style>
