@@ -14,11 +14,10 @@ quanto para Android.
 Participei da Semana Omnistack para obter conhecimento sobre essas tecnologias que tenho estudado.
 
 
-![](/_images/logon-page.PNG)
-<img src="/_images/logon-page.PNG" width="200">
+<img src="/_images/logon-page.PNG" width="500">
 
-![](/_images/register-page.PNG)
+<img src="/_images/register-page.PNG" width="500">
 
-![](/_images/new-incident-page.PNG)
+<img src="/_images/new-incident-page.PNG" width="500">
 
-![](/_images/main-page.PNG)
+<img src="/_images/main-page.PNG" width="500">
